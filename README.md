@@ -15,4 +15,5 @@ TELA PARA ADICIONAR NOVA TAREFA
 ![image](https://github.com/MvFranca/to-do-list-express/assets/111403597/9cb1730f-23f9-46bc-9607-90ff917e8bef)
 
 TELA EM DISPOSITIVOS MÓVEIS:
-![localhost_3000_checklists(iPhone SE)](https://github.com/MvFranca/to-do-list-express/assets/111403597/99ea2251-8ca4-4c10-881c-58eb615883d1)
+![image](https://github.com/MvFranca/to-do-list-express/assets/111403597/42d8a319-50f4-43a5-b35c-552c885f189f)
+
